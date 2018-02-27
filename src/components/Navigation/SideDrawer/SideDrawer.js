@@ -20,7 +20,7 @@ const sideDrawer = (props) => {
           <NavigationItems />
         </nav>
       </div>
-    </Fragment >
+    </Fragment>
   );
 };
 
